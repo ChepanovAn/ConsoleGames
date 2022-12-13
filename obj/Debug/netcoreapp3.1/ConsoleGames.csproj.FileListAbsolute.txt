@@ -1,0 +1,14 @@
+C:\Users\Анатолий\source\repos\ConsoleGames\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.csproj.AssemblyReference.cache
+C:\Users\Анатолий\source\repos\ConsoleGames\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анатолий\source\repos\ConsoleGames\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.AssemblyInfoInputs.cache
+C:\Users\Анатолий\source\repos\ConsoleGames\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.AssemblyInfo.cs
+C:\Users\Анатолий\source\repos\ConsoleGames\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.csproj.CoreCompileInputs.cache
+C:\Users\Анатолий\source\repos\ConsoleGames\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.exe
+C:\Users\Анатолий\source\repos\ConsoleGames\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.deps.json
+C:\Users\Анатолий\source\repos\ConsoleGames\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.runtimeconfig.json
+C:\Users\Анатолий\source\repos\ConsoleGames\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.runtimeconfig.dev.json
+C:\Users\Анатолий\source\repos\ConsoleGames\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.dll
+C:\Users\Анатолий\source\repos\ConsoleGames\ConsoleGames\bin\Debug\netcoreapp3.1\ConsoleGames.pdb
+C:\Users\Анатолий\source\repos\ConsoleGames\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.dll
+C:\Users\Анатолий\source\repos\ConsoleGames\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.pdb
+C:\Users\Анатолий\source\repos\ConsoleGames\ConsoleGames\obj\Debug\netcoreapp3.1\ConsoleGames.genruntimeconfig.cache
